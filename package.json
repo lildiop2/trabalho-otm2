@@ -1,0 +1,16 @@
+{
+  "name": "valor-esperado",
+  "version": "1.0.0",
+  "description": "trabalho final da disciplina Otimização 2. Demonstração da formula do valor esperado.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "otimização",
+    "valor",
+    "esperado"
+  ],
+  "author": "Abdul Kevin Alexis",
+  "license": "ISC"
+}
