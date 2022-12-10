@@ -2,8 +2,7 @@
 
 Esse trabalho é uma experiência realizada como trabalho final da disciplina OTIMIZAÇÃO 2. A experiência consiste em verificar se a formula matematica do valor esperado é igual ao valor esperado se fizermos na prática. Será usado um dado eletrônico.
 
-![\Large \mu =E(X)=\sum_{i}^{} X_i P(X_i)](https://latex.codecogs.com/svg.image?\mu&space;=E(X)=\sum_{i}^{}&space;X_i&space;P(X_i))
-
+![Formula](./ve.webp)
 
 ## Referência
 
@@ -32,7 +31,7 @@ por padrão, o numero experimento é 1000.
 
 #### Video
 
-[![Apresentação](ve.webp)](http://www.youtube.com/watch?v=NW-hsrIiqYE "Video de Apresentação")
+[![Apresentação](./YouTube_Logo.png)](http://www.youtube.com/watch?v=NW-hsrIiqYE "Video de Apresentação")
 
 
 ## Autores
